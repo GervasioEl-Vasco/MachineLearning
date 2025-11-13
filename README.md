@@ -4,7 +4,7 @@
 
 Program ini merupakan sistem kontrol logika fuzzy untuk mengatur kecepatan kipas kandang ayam berdasarkan tiga variabel utama:
 
-- Suhu kandang (°C)
+- Suhu kandang (C)
 
 - Kelembaban udara (%)
 
